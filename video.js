@@ -7,7 +7,8 @@ class ejercicios {
         b = parseInt (Leer ("Ingrese el valor de b : "))
         c = parseInt (Leer ("Ingrese el valor de c : "))
 
-        resultado = (-b + (Math.sqrt(b**2 - 4*a*c)) ) / (2*a)
+        resultado = (-b + (Math.sqrt(b** - 4*a*c)) ) / (2*a)
+                                    
         console.log ("El Resultado es : ", resultado)
     }
 
